@@ -1,5 +1,4 @@
 - 👋 Ola, me chamo David Petterson, tenho 22 anos e sou estudante de Sistemas de Informação na região de Belo Horizonte, MG.
-- 👀 Estou a procura de uma oportunidade para me inserir no mercado de tecnologia.
-- 🌱 Além do Bacharelado em Sistemas de Informação, atualmente estou realizando cursos complementares voltados para a área de desenvolvimento, 
-- utilizando tecnologias como HTML, CSS, Boostrap, Java Script, PHP, C#, MySQL e Wordpress.
+- 💼 Atualmente trabalho como estagiário em desenvolvimento de software.
+- 📘 Além do Bacharelado em Sistemas de Informação, atualmente estou realizando cursos complementares voltados para a área de desenvolvimento, utilizando tecnologias como HTML, CSS, Boostrap, Java Script, C#.
 - 📫 Contato: https://www.linkedin.com/in/davidpetterson2000/  //  davidpetterson2000@gmail.com  //  pettersondavid2000@gmail.com  // (31) 98885 - 9844.
